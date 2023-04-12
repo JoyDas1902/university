@@ -68,7 +68,7 @@ nav a b {
   margin-block: 0 4vh;
   text-align: center;
 }
-.outer {
+.outer, .outer2 {
   width: 100%;
   display: flex;
   justify-content: center;
@@ -91,12 +91,12 @@ nav a b {
 .inner form input {
   padding: 5px;
 }
-.outer a {
+.outer2 a {
   padding: 7px 10px;
   background-color: white;
   border-radius: 10px;
 }
-.outer a:hover {
+.outer2 a:hover {
   background-color: deepskyblue;
   color: white;
   box-shadow: 1px 1px #222;
@@ -235,6 +235,9 @@ footer {
   }
   nav a {
     font-size: small;
+  }
+  .outer {
+    flex-direction: column;
   }
   .photo {
     grid-row: span 1;
