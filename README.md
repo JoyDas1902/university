@@ -18,4 +18,4 @@ Extra-curricular Page: Focuses on extra-curricular activities like sports, arts,
 Alumni Page: Dedicated to the achievements and contributions of the university's alumni.
 
 ## Visit website
-Link: https://joydas1902.github.io/university
+Link: https://university-joydas19.vercel.app/
